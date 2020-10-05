@@ -3,7 +3,7 @@ spring:
     url: jdbc:mysql://localhost:3306/db_springboot_cloud?serverTimezone=Europe/Madrid
 #    url: jdbc:mysql://localhost:3306/db_springboot_cloud?serverTimezone=Europe/Madrid&allowPublicKeyRetrieval=true&userSSL=false
     username: rabad
-    password: Rabad1234
+    password: rabad
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     database-platform: org.hibernate.dialect.MySQL8Dialect
