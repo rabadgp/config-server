@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/db_springboot_cloud?serverTimezone=Europe/Madrid
+    url: jdbc:mysql://mysql-server:3306/db_springboot_cloud?serverTimezone=Europe/Madrid
 #    url: jdbc:mysql://localhost:3306/db_springboot_cloud?serverTimezone=Europe/Madrid&allowPublicKeyRetrieval=true&userSSL=false
     username: rabad
     password: rabadrabad
